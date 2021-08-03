@@ -1,0 +1,16 @@
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/bin/Debug/net5.0/ListaLigada001
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/bin/Debug/net5.0/ListaLigada001.deps.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/bin/Debug/net5.0/ListaLigada001.runtimeconfig.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/bin/Debug/net5.0/ListaLigada001.runtimeconfig.dev.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/bin/Debug/net5.0/ListaLigada001.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/bin/Debug/net5.0/ref/ListaLigada001.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/bin/Debug/net5.0/ListaLigada001.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.csproj.AssemblyReference.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.AssemblyInfoInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.AssemblyInfo.cs
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.csproj.CoreCompileInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ref/ListaLigada001.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/ListaLigada001/obj/Debug/net5.0/ListaLigada001.genruntimeconfig.cache

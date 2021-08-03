@@ -1,0 +1,16 @@
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/bin/Debug/net5.0/InsertionSort005
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/bin/Debug/net5.0/InsertionSort005.deps.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/bin/Debug/net5.0/InsertionSort005.runtimeconfig.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/bin/Debug/net5.0/InsertionSort005.runtimeconfig.dev.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/bin/Debug/net5.0/InsertionSort005.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/bin/Debug/net5.0/ref/InsertionSort005.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/bin/Debug/net5.0/InsertionSort005.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.csproj.AssemblyReference.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.AssemblyInfoInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.AssemblyInfo.cs
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.csproj.CoreCompileInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/ref/InsertionSort005.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/InsertionSort005/obj/Debug/net5.0/InsertionSort005.genruntimeconfig.cache

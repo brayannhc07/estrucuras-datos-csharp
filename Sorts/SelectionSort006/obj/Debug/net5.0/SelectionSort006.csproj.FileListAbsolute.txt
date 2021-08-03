@@ -1,0 +1,16 @@
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/bin/Debug/net5.0/SelectionSort006
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/bin/Debug/net5.0/SelectionSort006.deps.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/bin/Debug/net5.0/SelectionSort006.runtimeconfig.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/bin/Debug/net5.0/SelectionSort006.runtimeconfig.dev.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/bin/Debug/net5.0/SelectionSort006.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/bin/Debug/net5.0/ref/SelectionSort006.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/bin/Debug/net5.0/SelectionSort006.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.csproj.AssemblyReference.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.AssemblyInfoInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.AssemblyInfo.cs
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.csproj.CoreCompileInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/ref/SelectionSort006.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/SelectionSort006/obj/Debug/net5.0/SelectionSort006.genruntimeconfig.cache

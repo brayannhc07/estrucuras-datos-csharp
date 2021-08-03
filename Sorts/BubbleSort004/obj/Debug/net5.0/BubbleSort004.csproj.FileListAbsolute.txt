@@ -1,0 +1,16 @@
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.csproj.AssemblyReference.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.AssemblyInfoInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.AssemblyInfo.cs
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.csproj.CoreCompileInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/bin/Debug/net5.0/BubbleSort004
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/bin/Debug/net5.0/BubbleSort004.deps.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/bin/Debug/net5.0/BubbleSort004.runtimeconfig.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/bin/Debug/net5.0/BubbleSort004.runtimeconfig.dev.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/bin/Debug/net5.0/BubbleSort004.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/bin/Debug/net5.0/ref/BubbleSort004.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/bin/Debug/net5.0/BubbleSort004.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/ref/BubbleSort004.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/BubbleSort004/obj/Debug/net5.0/BubbleSort004.genruntimeconfig.cache
