@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MergeSort007/1.0.0": {
+        "runtime": {
+          "MergeSort007.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MergeSort007/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

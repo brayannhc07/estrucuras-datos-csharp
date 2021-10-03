@@ -1,0 +1,16 @@
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/bin/Debug/net5.0/MergeSort007
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/bin/Debug/net5.0/MergeSort007.deps.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/bin/Debug/net5.0/MergeSort007.runtimeconfig.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/bin/Debug/net5.0/MergeSort007.runtimeconfig.dev.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/bin/Debug/net5.0/MergeSort007.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/bin/Debug/net5.0/ref/MergeSort007.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/bin/Debug/net5.0/MergeSort007.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.csproj.AssemblyReference.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.AssemblyInfoInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.AssemblyInfo.cs
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.csproj.CoreCompileInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/ref/MergeSort007.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/MergeSort007/obj/Debug/net5.0/MergeSort007.genruntimeconfig.cache

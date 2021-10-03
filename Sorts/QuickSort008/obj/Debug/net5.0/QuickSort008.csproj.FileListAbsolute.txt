@@ -1,0 +1,16 @@
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/bin/Debug/net5.0/QuickSort008
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/bin/Debug/net5.0/QuickSort008.deps.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/bin/Debug/net5.0/QuickSort008.runtimeconfig.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/bin/Debug/net5.0/QuickSort008.runtimeconfig.dev.json
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/bin/Debug/net5.0/QuickSort008.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/bin/Debug/net5.0/ref/QuickSort008.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/bin/Debug/net5.0/QuickSort008.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.csproj.AssemblyReference.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.AssemblyInfoInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.AssemblyInfo.cs
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.csproj.CoreCompileInputs.cache
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/ref/QuickSort008.dll
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.pdb
+/home/bryan/Documentos/Projects/Practices/C#/EstructurasDeDatos/Sorts/QuickSort008/obj/Debug/net5.0/QuickSort008.genruntimeconfig.cache
